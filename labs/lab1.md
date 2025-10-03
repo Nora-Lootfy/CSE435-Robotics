@@ -63,8 +63,6 @@ rTurn dvalue
 rSpeed value
 ```
 
-- Range: **1 → 100**.  
-- Default: **10**.  
 - Larger value = **slower movement** (easier to observe).  
 - Smaller value = **faster movement**.  
 
