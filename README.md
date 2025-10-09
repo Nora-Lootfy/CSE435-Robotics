@@ -36,9 +36,9 @@ CSE435-Robotics/
 
 ## 🎥 Video Resources  
 
-#### ▶️ Tutorials [Robotics - Tutorials]()
+#### ▶️ Tutorials [Robotics - Tutorials](https://www.youtube.com/playlist?list=PLr7yHqGd2MWBxPGZS1r-lQZmrfQhAOMnt)
 
-#### ▶️ Labs [Robotics - Labs]()
+#### ▶️ Labs [Robotics - Labs](https://www.youtube.com/playlist?list=PLr7yHqGd2MWCC6xd4iUC_bugG4sb6xW5e)
 
 ---
 ⚡ From sensors to intelligence — Let’s build robots!
