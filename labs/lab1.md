@@ -31,7 +31,7 @@ rLocate 100, 100, 45, 30, red
 
 **To print x and y values**
 ```basic
-print(rGpsY())
+print(rGpsX())
 print(rGpsY())
 ```
 
