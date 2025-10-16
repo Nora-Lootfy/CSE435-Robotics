@@ -129,7 +129,7 @@ XYString X, Y, Expr[, Expr; ...]
   Returns a number representing which bumpers are pressed (0 = none).
 
 <p align="center">
-  <img src="assets/bumper.png" width="300">
+  <img src="../assets/bumper.png" width="300">
 </p>
 
 **Example – Stop on Collision**
@@ -157,7 +157,7 @@ wend
   ```
 
 <p align="center">
-  <img src="assets/infrared.png" width="300">
+  <img src="../assets/infrared.png" width="300">
 </p>
 
 **Example – Stop when Object Detected**
