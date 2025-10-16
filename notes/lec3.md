@@ -1,5 +1,5 @@
 # CSE435 – Robotics  
-## Lecture 2 Notes
+## Lecture 3 Notes
 
 ---
 
