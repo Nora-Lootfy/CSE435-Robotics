@@ -5,17 +5,17 @@ end
 
 randomRoaming:
    while true
-       while rFeel() = 0
+       while (rBumper() & 4) = 0
            rForward 1
        wend
        
-       if rFeel() & 3
-           turnAngle = -45
-       elseif rFeel() & 24
-           turnAngle = 45
-      elseif rFeel() & 4
-         turnAngle = 130
-      endif
+        if (rFeel() & 3) = 0 
+           turnAngle = 50
+        elseif (rFeel() & 24) = 0
+           turnAngle = -50
+        else
+            turnAngle = 130
+        endif
       
       rTurn turnAngle + random(50) * sign(turnAngle)  
    wend

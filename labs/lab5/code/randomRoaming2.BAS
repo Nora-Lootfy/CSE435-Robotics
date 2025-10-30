@@ -9,13 +9,13 @@ randomRoaming:
            rForward 1
        wend
        
-       if rFeel() & 3
-           turnAngle = -90
-       elseif rFeel() & 24
+        if (rFeel() & 3) = 0 
            turnAngle = 90
-       elseif rFeel() & 4
-          turnAngle = 180
-       endif
+        elseif (rFeel() & 24) = 0
+           turnAngle = -90
+        else
+            turnAngle = 180
+        endif
       
       oldDist = 0
       for i = 1 to turnAngle
